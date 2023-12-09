@@ -1,4 +1,4 @@
-<h1 align="center">![MasterHead](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)</h1>
+<img align="center" width="1000" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="hamzabdg" />
 <h1 align="center">Hi 👋, I'm Hamza Boudarga</h1>
 <h3 align="center">A Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1803678/screenshots/3652824/media/d3b02b8c47ea791aebf0a53631428f94.gif">
